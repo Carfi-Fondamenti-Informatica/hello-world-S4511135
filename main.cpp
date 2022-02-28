@@ -1,6 +1,18 @@
-#include <iostream>
-using namespace std;
+/* 
+   Cognome:Anyanwu
+   Nome:Giulio E.C.
+   Matricola:S4511135
+   Esercizio:Hello World
 
-int main() {
-   return 0;
+*/
+
+#include <iostream>
+
+using namespace std;
+ 
+int main()
+{
+    cout << "Hello world!"; //stampa la   scritta “Hello world”
+	
+	return 0;
 }
